@@ -1,0 +1,22 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=305800,AVERAGE-BANDWIDTH=290400,CODECS="avc1.42c015,mp4a.40.2",RESOLUTION=426x240,FRAME-RATE=25.000
+master_240p.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="en",NAME="English",DEFAULT=YES,URI="https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_indvsaus_t2002/master.m3u8"
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="en",NAME="English",DEFAULT=YES,URI="https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_indvsaus_t2002/master.m3u8"
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="en",NAME="Bhojpuri",DEFAULT=YES,URI="http://prod-sports-north-gm.jiocinema.com/hls/live/2099088/hd_akamai_androidmob_avc_bhoj_indvsaus_t2002/master.m3u8"
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="en",NAME="Tamil",DEFAULT=YES,URI="http://prod-sports-south-gm.jiocinema.com/hls/live/2099011/hd_akamai_androidmob_avc_tam_indvsaus_t2002/master.m3u8"
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="en",NAME="Marathi",DEFAULT=YES,URI="http://prod-sports-north-gm.jiocinema.com/hls/live/2099094/hd_akamai_androidmob_avc_mar_indvsaus_t2002/master.m3u8"
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="en",NAME="Gujarati ",DEFAULT=YES,URI="http://prod-sports-north-gm.jiocinema.com/hls/live/2099018/hd_akamai_androidmob_avc_guj_indvsaus_t2002/master.m3u8"
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="en",NAME="Bengali",DEFAULT=YES,URI="http://prod-sports-north-gm.jiocinema.com/hls/live/2099023/hd_akamai_androidmob_avc_ben_indvsaus_t2002/master.m3u8"
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="te",NAME="Malayalam",DEFAULT=YES,URI="http://prod-sports-south-gm.jiocinema.com/hls/live/2099017/hd_akamai_androidmob_avc_mal_indvsaus_t2002/master.m3u8"
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="te",NAME="Telugu",DEFAULT=YES,URI="http://prod-sports-south-gm.jiocinema.com/hls/live/2099012/hd_akamai_androidmob_avc_tel_indvsaus_t2002/master.m3u8"
